@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sharon kumar and I'm a cybersecurity engineer from Gujarat</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs<br>📚 I'm currently learning Cybersecurity<br>🎯 Goals: Ethical hacker<br>🎲 Fun fact: Hacking is good for health </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with kali linux</h2>
 
 ###
 
