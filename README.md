@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs<br>📚 I'm currently learning Cybersecurity<br>🎯 Goals: Ethical hacker<br>🎲 Fun fact: Hacking is good for health </p>
+<p align="left">✨ Solving Bugs<br>📚 I'm currently learning Cybersecurity<br>🎯 Goals: Ethical hacker<br>🎲 Fun fact: Hacking is good for health </p>
 
 ###
 
