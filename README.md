@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sharon kumar and I'm a cybersecurity engineer from Gujarat</p>
+<p align="left">My name is Sharon kumar and I'm a cybersecurity engineer from Vadodara, Gujarat</p>
 
 ###
 
